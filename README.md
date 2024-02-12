@@ -22,6 +22,8 @@ My first repository
 
 The story begins with Gon's decision to become a Hunter and his journey through the rigorous Hunter Examination.
 
+![alt text](image.jpg)
+
 ## Zoldyck Family Arc
 
 Gon and Killua visit Killua's family, the deadly Zoldycks, and confront challenges related to Killua's upbringing.
@@ -50,4 +52,5 @@ The story shifts to the political landscape as the characters become involved in
 
 Elite Hunters embark on a dangerous journey to explore the mysterious and perilous Dark Continent.
 
+![alt text](![hxh](https://github.com/Lei908/App-Dev-BSIS-4-1/assets/159739155/49d93d56-d4fb-47fa-8c5e-a6d933f99627))
 
