@@ -52,5 +52,6 @@ The story shifts to the political landscape as the characters become involved in
 
 Elite Hunters embark on a dangerous journey to explore the mysterious and perilous Dark Continent.
 
-![alt text](![hxh](https://github.com/Lei908/App-Dev-BSIS-4-1/assets/159739155/49d93d56-d4fb-47fa-8c5e-a6d933f99627))
+![alt text](![hxh](https://github.com/Lei908/App-Dev-BSIS-4-1/assets/159739155/3ceccaf6-5a8c-4887-9a48-3b74147e6c7f)
+)
 
